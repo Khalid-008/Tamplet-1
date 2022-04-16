@@ -118,7 +118,7 @@ body {
 /* landpage  */
 
 .land {
-  background-image: url(../image/zza-1920x1080.jpg);
+  background-image: url(zza-1920x1080.jpg);
   width: 100%;
   height: calc(100vh - 60px);
   background-size: cover;
